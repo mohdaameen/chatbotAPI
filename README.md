@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Chatbot API with Emotional State Detection</title>
+<title>Chatbot API with Emotional State Detection</title>
 </head>
 <body>
 
